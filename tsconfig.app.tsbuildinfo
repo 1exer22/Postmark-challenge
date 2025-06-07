@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/firebase/beats.ts","./src/firebase/config.ts","./src/types/beat.ts","./src/app.vue","./src/components/beatvisualizer.vue","./src/components/emailbox.vue","./src/components/helloworld.vue","./src/components/howitworks.vue","./src/pages/beatpage.vue","./src/pages/homepage.vue","./src/pages/notfoundpage.vue"],"version":"5.8.3"}
